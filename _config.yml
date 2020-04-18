@@ -1,12 +1,14 @@
 theme: minima
-title: SongSongSong
+title: Song^3
 author: Sazila
 email: sazila@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-  AWESOME描述，佛如此，难言表，just use mind to imagine。。
+# Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
+  AWESOME DESCRIPTION：佛如此，难言表~~
+  
+  just use mind to imagine。。
 # social links
 twitter_username: sazila # DO NOT include the @ character, or else the build will fail!
 github_username:  sazila # DO NOT include the @ character, or else the build will fail!
